@@ -32,5 +32,5 @@
 
 
 ### 🛒 쌓인책들 목록
-- [성공과 실패를 결정하는 1%의 네트워크 원리](https://github.com/Stacked-Book/BookRecord) (2022.05.27 ~ ing)
-- [실습과 그림으로 배우는 리눅스구조](https://github.com/Stacked-Book/BookRecord) (2022.06.17 ~ )
+- [성공과 실패를 결정하는 1%의 네트워크 원리](https://github.com/Stacked-Book/network) (2022.05.27 ~ ing)
+- [실습과 그림으로 배우는 리눅스구조](https://github.com/Stacked-Book/os-hardware) (2022.06.17 ~ )
