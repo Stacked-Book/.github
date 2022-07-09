@@ -34,6 +34,6 @@
 
 ### 🛒 쌓인책들 목록
 - [자바 웹 프로그래밍 Next Step](https://github.com/Stacked-Book/javaweb-nextstep-book-study)(2022.07.15 ~ )
-- [성공과 실패를 결정하는 1%의 네트워크 원리](https://github.com/Stacked-Book/network) (2022.05.27 ~ 2022.07.08 完)
+- [성공과 실패를 결정하는 1%의 네트워크 원리](https://github.com/Stacked-Book/network) (**完**)
 - [실습과 그림으로 배우는 리눅스구조](https://github.com/Stacked-Book/os-hardware) (2022.06.17 ~ )
 
